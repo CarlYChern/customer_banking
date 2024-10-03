@@ -1,10 +1,11 @@
 # Customer Banking   
 Repository: customer_banking
 
-Files: customer_banking.py  main function
-       Accounts.py  Account class
-       savings_account.py savings account function
-       cd_account. py     cd account function     
+Files: 
+* customer_banking.py  main function
+* Accounts.py          Account class
+* savings_account.py   savings account function
+* cd_account. py       cd account function     
 
 ## What it does
 
