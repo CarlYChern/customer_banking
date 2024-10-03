@@ -1,15 +1,12 @@
 # Customer Banking   
+
 Repository: customer_banking
 
 Files: 
-* customer_banking.py
-  main function
-* Accounts.py
-  Account class
-* savings_account.py
-  savings account function
-* cd_account. py
-  cd account function     
+* customer_banking.py  >>>  main function, ask for user input and displays results
+* Accounts.py          >>>  Account class with methods to set the balance and interest
+* savings_account.py   >>>  savings account function
+* cd_account. py       >>>  cd account function     
 
 ## What it does
 
