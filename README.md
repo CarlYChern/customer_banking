@@ -36,8 +36,5 @@ Enter the duration in months: 36
 
 Interested earned on savings: $ 750.00
 
-<<<<<<< HEAD
 Updated savings account balance: $ 5,750.00
-=======
-Updated savings account balance: $ 5,750.00
->>>>>>> 831dc4ccc885af0c4aad4becdee4031185e500f8
+
